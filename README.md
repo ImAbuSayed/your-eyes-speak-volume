@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-eyes-speak-volume/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Your Eyes Speak Volume](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-eyes-speak-volume/) |
+| **Get License** | [Get a Licensing Quote for Your Eyes Speak Volume](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-eyes-speak-volume/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> You left a little shadow on the wooden floor
+> A lingering reflection through the open door
+> Mm, just a whisper in the air
+> I trace the empty spaces where we stood before
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
