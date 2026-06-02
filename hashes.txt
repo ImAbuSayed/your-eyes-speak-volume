@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Eyes Speak Volume
+
+This log tracks the cryptographic history and versioning for the song **Your Eyes Speak Volume** (your-eyes-speak-volume).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-03T03:58:21.783073 | `v1` | `8cfe84d40440d9d89eb22b21dde16ebacf8939b8b0c92fcce18cd407e522801b` | `acb599f067dd81bc7e0fa78f5577355699efb06216196c180a99ad78640e8501` | `2026-06-03_your-eyes-speak-volume-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

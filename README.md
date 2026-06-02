@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-eyes-speak-volume/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Your Eyes Speak Volume](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-eyes-speak-volume/) |
+| **Get License** | [Secure Licensing Rights for Your Eyes Speak Volume](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-eyes-speak-volume/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8cfe84d40440d9d89eb22b21dde16ebacf8939b8b0c92fcce18cd407e522801b` |
 | **Timestamp** | June 03, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
